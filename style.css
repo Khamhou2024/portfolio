@@ -856,6 +856,7 @@ body {
     flex-direction: column;
     align-items: center;
     position: relative;
+    padding: 50px;
   }
   .con-nav-8 .box-22 {
     display: flex;
