@@ -14,6 +14,7 @@ body {
   display: flex;
   flex-direction: column;
   border-radius: 10px;
+  padding: 40px;
 }
 .container .con-nav {
   padding: 30px;
@@ -527,7 +528,6 @@ body {
     align-items: center;
     gap: 40px;
     background-color: #fff;
-    margin: 20px;
   }
   .container .con-nav {
     display: flex;
@@ -581,7 +581,7 @@ body {
   }
   .con-nav-1 .welcome {
     font-size: 10px;
-    width: 50px;
+    width: 70px;
   }
   .con-nav-1 .box-1 {
     display: flex;
@@ -715,7 +715,7 @@ body {
     gap: 60px;
   }
   .con-nav-3 .text-6 {
-    width: 60px;
+    width: 70px;
     font-size: 12px;
   }
 
@@ -754,7 +754,7 @@ body {
   }
   .con-nav-4 .text-16 {
     font-size: 13px;
-    width: 60px;
+    width: 70px;
   }
   .con-nav-4 .button-1 {
     font-size: 11px;
@@ -791,7 +791,7 @@ body {
   }
   .con-nav-5 .text-19 {
     font-size: 13px;
-    width: 60px;
+    width: 70px;
   }
   .container .con-nav-6 {
     display: flex;
